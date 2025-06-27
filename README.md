@@ -31,7 +31,7 @@ This website is designed to help students **make the most of their study time** 
 - 📚 **Books & Study Materials** – With purchase links  
 - 📝 **Interactive Quizzes** – Reinforce your understanding
 
-📌 **[🔗 Project Link Placeholder – Add Repo Here]**
+🔗 Project Link – https://github.com/sathwikabandaru/Academic-Resource-Website
 
 ---
 
